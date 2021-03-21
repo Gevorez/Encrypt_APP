@@ -1,0 +1,10 @@
+C:\Users\gevor\OneDrive\STUDIA\STUDIA SEMESTR 6\PRZEDMIOTY\BSK\VisualProjects\BSK_Lab3\BSK_Lab3\bin\Debug\BSK_Lab3.exe.config
+C:\Users\gevor\OneDrive\STUDIA\STUDIA SEMESTR 6\PRZEDMIOTY\BSK\VisualProjects\BSK_Lab3\BSK_Lab3\bin\Debug\BSK_Lab3.exe
+C:\Users\gevor\OneDrive\STUDIA\STUDIA SEMESTR 6\PRZEDMIOTY\BSK\VisualProjects\BSK_Lab3\BSK_Lab3\bin\Debug\BSK_Lab3.pdb
+C:\Users\gevor\OneDrive\STUDIA\STUDIA SEMESTR 6\PRZEDMIOTY\BSK\VisualProjects\BSK_Lab3\BSK_Lab3\obj\Debug\BSK_Lab3.csprojAssemblyReference.cache
+C:\Users\gevor\OneDrive\STUDIA\STUDIA SEMESTR 6\PRZEDMIOTY\BSK\VisualProjects\BSK_Lab3\BSK_Lab3\obj\Debug\BSK_Lab3.Form1.resources
+C:\Users\gevor\OneDrive\STUDIA\STUDIA SEMESTR 6\PRZEDMIOTY\BSK\VisualProjects\BSK_Lab3\BSK_Lab3\obj\Debug\BSK_Lab3.Properties.Resources.resources
+C:\Users\gevor\OneDrive\STUDIA\STUDIA SEMESTR 6\PRZEDMIOTY\BSK\VisualProjects\BSK_Lab3\BSK_Lab3\obj\Debug\BSK_Lab3.csproj.GenerateResource.cache
+C:\Users\gevor\OneDrive\STUDIA\STUDIA SEMESTR 6\PRZEDMIOTY\BSK\VisualProjects\BSK_Lab3\BSK_Lab3\obj\Debug\BSK_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\gevor\OneDrive\STUDIA\STUDIA SEMESTR 6\PRZEDMIOTY\BSK\VisualProjects\BSK_Lab3\BSK_Lab3\obj\Debug\BSK_Lab3.exe
+C:\Users\gevor\OneDrive\STUDIA\STUDIA SEMESTR 6\PRZEDMIOTY\BSK\VisualProjects\BSK_Lab3\BSK_Lab3\obj\Debug\BSK_Lab3.pdb
